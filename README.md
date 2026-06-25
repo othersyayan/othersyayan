@@ -57,7 +57,7 @@ I am a seasoned engineering leader and Full Stack Engineer with over 5 years of 
 ### 🤖 AI Engineering & Automation
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-🤖_LLMs-blueviolet?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-🧠_Autonomous-purple?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-Dev_&_Workflow-indigo?style=for-the-badge)
 
 ## 📬 Connect With Me

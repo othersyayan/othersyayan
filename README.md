@@ -1,14 +1,14 @@
 # Hi there, I'm Yayan Handani 👋
 
-### Technical Lead & Full Stack Engineer
+### Full Stack Engineer
 
-I am a seasoned engineering leader and Full Stack Engineer with over 5 years of experience architecting scalable web applications, optimizing cloud infrastructure, and leading cross-functional development teams. My expertise spans across the **TypeScript (React, Next.js, Nest.js)** and **Go** ecosystems, with a deep focus on **EdTech, SaaS domains, and AI Engineering**.
+I am a Full Stack Engineer with over 5 years of experience architecting scalable web applications, optimizing cloud infrastructure, and leading cross-functional development teams. My expertise spans across the **TypeScript (React, Next.js, Nest.js)** and **Go** ecosystems, with a deep focus on **EdTech, SaaS domains, and AI Engineering**.
 
 ## 🚀 Architectural & Leadership Philosophy
 
 - **Scalability & Performance:** Experienced in optimizing cloud infrastructure for high-traffic environments (managing 1000+ concurrent users and significantly reducing server response times).
 - **Engineering Excellence:** Driven by establishing best practices through rigorous code reviews, pair programming, and modular architectural planning to slash production bugs.
-- **AI-Driven Innovation:** Actively exploring and building Generative AI, Agentic AI architectures, and autonomous AI agents to solve complex business automation challenges.
+- **AI-Driven Innovation:** Actively exploring and building Generative AI, Agentic AI architectures, and AI agents to solve complex business automation challenges.
 
 ## 🛠️ Technical Toolkit
 
@@ -63,4 +63,4 @@ I am a seasoned engineering leader and Full Stack Engineer with over 5 years of 
 
 - 💼 **LinkedIn:** [linkedin.com/in/yayan-handani](https://www.linkedin.com/in/yayan-handani)
 - 📧 **Email:** [others.handani@gmail.com](mailto:others.handani@gmail.com)
-- 📍 **Location:** Bandung, West Java, Indonesia
+- 📍 **Location:** South Tangerang, Banten, Indonesia
